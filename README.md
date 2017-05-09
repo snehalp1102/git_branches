@@ -6,3 +6,8 @@ These are a few of my favorite things:
 - Whiskers on kittens
 - Bright copper kettles
 - Warm woolen mittens
+
+Classes that I am taking:
+-Intro to DS
+-BI systems
+-Advanced RDBMS
